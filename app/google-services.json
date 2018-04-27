@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "812360852185",
+    "firebase_url": "https://loginvia-45122.firebaseio.com",
+    "project_id": "loginvia-45122",
+    "storage_bucket": "loginvia-45122.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812360852185:android:e0bfa4eeb8f381a4",
+        "android_client_info": {
+          "package_name": "android.com.loginviafacebooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812360852185-fof8k0he59vran8kod0vnkiedkecm7ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN4IjVyhF1ZFEqwr1Ja0s1XGUoYWXyJnQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

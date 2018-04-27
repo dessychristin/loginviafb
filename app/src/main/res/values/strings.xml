@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginViaFacebooks</string>
+    <string name="facebook_app_id">439869626473159</string>
+    <string name="fb_login_protocol_scheme">fb439869626473159</string>
+    <string name="cancel_login" />
+    <string name="error_login" />
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="gender">Gender</string>
+</resources>
